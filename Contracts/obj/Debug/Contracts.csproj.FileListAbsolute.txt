@@ -1,0 +1,4 @@
+c:\Users\k.barutska\documents\visual studio 2017\Projects\Services\Contracts\bin\Debug\Contracts.dll
+c:\Users\k.barutska\documents\visual studio 2017\Projects\Services\Contracts\bin\Debug\Contracts.pdb
+c:\Users\k.barutska\documents\visual studio 2017\Projects\Services\Contracts\obj\Debug\Contracts.dll
+c:\Users\k.barutska\documents\visual studio 2017\Projects\Services\Contracts\obj\Debug\Contracts.pdb

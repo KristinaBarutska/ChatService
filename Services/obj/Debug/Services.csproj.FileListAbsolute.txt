@@ -1,0 +1,8 @@
+c:\users\k.barutska\documents\visual studio 2017\Projects\Services\Services\bin\Services.dll.config
+c:\users\k.barutska\documents\visual studio 2017\Projects\Services\Services\bin\Services.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\Services\Services\bin\Services.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\Services\Services\bin\Contracts.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\Services\Services\bin\Contracts.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\Services\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+c:\users\k.barutska\documents\visual studio 2017\Projects\Services\Services\obj\Debug\Services.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\Services\Services\obj\Debug\Services.pdb
